@@ -1,1 +1,5 @@
+# Mac OS tmp file
 .DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
